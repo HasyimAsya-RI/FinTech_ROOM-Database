@@ -1,4 +1,4 @@
-package com.example.fintech_5roomdatabase
+package com.example.fintech1832_roomdatabase
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

@@ -1,11 +1,11 @@
-package com.example.fintech_5roomdatabase.data.local.db
+package com.example.fintech1832_roomdatabase.data.local.db
 
 import android.content.Context
 import androidx.room.Database
 import androidx.room.Room
 import androidx.room.RoomDatabase
-import com.example.fintech_5roomdatabase.data.local.db.dao.FlowerDao
-import com.example.fintech_5roomdatabase.data.local.db.model.FlowerEntity
+import com.example.fintech1832_roomdatabase.data.local.db.dao.FlowerDao
+import com.example.fintech1832_roomdatabase.data.local.db.model.FlowerEntity
 
 @Database( entities = [FlowerEntity::class], version = 1 )
 abstract class AppDatabase : RoomDatabase() {

@@ -1,9 +1,9 @@
-package com.example.fintech_5roomdatabase.ui.home
+package com.example.fintech1832_roomdatabase.ui.home
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.TextView
-import com.example.fintech_5roomdatabase.R
+import com.example.fintech1832_roomdatabase.R
 
 class HomeActivity : AppCompatActivity() {
 

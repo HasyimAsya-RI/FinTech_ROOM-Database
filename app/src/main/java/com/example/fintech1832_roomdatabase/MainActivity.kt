@@ -1,13 +1,13 @@
-package com.example.fintech_5roomdatabase
+package com.example.fintech1832_roomdatabase
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
 import androidx.fragment.app.Fragment
-import com.example.fintech_5roomdatabase.ui.home.HomeFragment
-import com.example.fintech_5roomdatabase.ui.profile.ProfileActivity
-import com.example.fintech_5roomdatabase.ui.setting.SettingActivity
+import com.example.fintech1832_roomdatabase.ui.home.HomeFragment
+import com.example.fintech1832_roomdatabase.ui.profile.ProfileActivity
+import com.example.fintech1832_roomdatabase.ui.setting.SettingActivity
 
 class MainActivity : AppCompatActivity() {
 

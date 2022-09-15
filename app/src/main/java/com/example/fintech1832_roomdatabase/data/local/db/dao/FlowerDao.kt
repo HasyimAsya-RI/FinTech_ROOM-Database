@@ -1,7 +1,7 @@
-package com.example.fintech_5roomdatabase.data.local.db.dao
+package com.example.fintech1832_roomdatabase.data.local.db.dao
 
 import androidx.room.*
-import com.example.fintech_5roomdatabase.data.local.db.model.FlowerEntity
+import com.example.fintech1832_roomdatabase.data.local.db.model.FlowerEntity
 
 @Dao
 interface FlowerDao {

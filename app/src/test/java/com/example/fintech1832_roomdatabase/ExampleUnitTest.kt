@@ -1,4 +1,4 @@
-package com.example.fintech_5roomdatabase
+package com.example.fintech1832_roomdatabase
 
 import org.junit.Test
 

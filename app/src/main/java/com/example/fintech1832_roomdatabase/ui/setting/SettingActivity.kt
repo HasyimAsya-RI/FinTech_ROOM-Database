@@ -1,4 +1,4 @@
-package com.example.fintech_5roomdatabase.ui.setting
+package com.example.fintech1832_roomdatabase.ui.setting
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
@@ -6,8 +6,8 @@ import android.os.Bundle
 import android.util.Patterns
 import android.widget.*
 import androidx.appcompat.app.AlertDialog
-import com.example.fintech_5roomdatabase.R
-import com.example.fintech_5roomdatabase.ui.profile.ProfileActivity
+import com.example.fintech1832_roomdatabase.R
+import com.example.fintech1832_roomdatabase.ui.profile.ProfileActivity
 import java.lang.StringBuilder
 
 class SettingActivity : AppCompatActivity() {

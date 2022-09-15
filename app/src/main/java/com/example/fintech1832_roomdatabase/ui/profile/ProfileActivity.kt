@@ -1,9 +1,9 @@
-package com.example.fintech_5roomdatabase.ui.profile
+package com.example.fintech1832_roomdatabase.ui.profile
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.TextView
-import com.example.fintech_5roomdatabase.R
+import com.example.fintech1832_roomdatabase.R
 
 class ProfileActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
